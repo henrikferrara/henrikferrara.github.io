@@ -10,6 +10,9 @@ header_pages:
 
 style: dark
 
+baseurl: "blog"
+url: "https://henrikferrara.github.io"
+
 footer: "Henrik Ferrara Ω 2022"
 
 collections:
