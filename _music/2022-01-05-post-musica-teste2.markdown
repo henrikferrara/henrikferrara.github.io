@@ -1,7 +1,6 @@
 ---
 layout: "music"
 title: "Sound for films"
-permalink: /soundforfilms
 description: ""
 ---
 # Sound for films
