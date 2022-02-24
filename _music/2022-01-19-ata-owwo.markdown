@@ -1,7 +1,6 @@
 ---
 layout: "music"
 title: "ATA OWWO"
-permalink: /ataowwoproject
 description: ""
 ---
 # ATA OWWO
