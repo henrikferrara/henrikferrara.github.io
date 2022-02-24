@@ -1,7 +1,6 @@
 ---
 layout: "music"
 title: "Crescente"
-permalink: /crescente
 description: ""
 ---
 # Crescente
