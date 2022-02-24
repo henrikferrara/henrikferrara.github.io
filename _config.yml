@@ -10,6 +10,7 @@ header_pages:
 
 style: dark
 
+baseurl: "/site"
 url: "https://henrikferrara.github.io"
 
 footer: "Henrik Ferrara Ω 2022"
