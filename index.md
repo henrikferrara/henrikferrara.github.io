@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 # PT | Português
 Sou músico, fotógrafo e autor multidisciplinar residente em Vila Nova de Gaia, em Portugal.
