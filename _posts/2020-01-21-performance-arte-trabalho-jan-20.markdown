@@ -14,4 +14,4 @@ Com Henrik Ferrara (criação de momento sonoros, relação entre o som, a exper
 
 Esta performance teve uma duração de cerca de 30min, período durante o qual foi assumido o compromisso de trabalhar de forma intensiva no processo de experimentação e descoberta artística. Ato de criar com rapidez e afinco levado ao extremo.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3XxuQCeeTZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3XxuQCeeTZw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
