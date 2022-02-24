@@ -1,7 +1,6 @@
 ---
 layout: "music"
 title: "Geleia Mista"
-permalink: /geleiamista
 description: ""
 ---
 # Geleia Mista
