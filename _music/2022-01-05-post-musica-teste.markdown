@@ -1,7 +1,6 @@
 ---
 layout: "music"
 title: "LickSickDick Collective"
-permalink: /licksickdickworks
 description: ""
 ---
 # Lick Sick Dick
