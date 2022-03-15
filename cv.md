@@ -28,6 +28,9 @@ email me: henrikferrara@gmail.com
 . [Exposição do projeto "Sardão" no CPF (Centro Português de Fotografia) no contexto da mostra dos trabalhos finais da licenciatura em TCAV][FOTOSSARDAO];
 
 # Ao vivo | Live Shows
+2022
+. [Tuning People Birds and Flowers - Oficina com Paulo Maria Rodrigues / Companha de Música Teatral][BIRDSANDFLOWERS];
+
 2021
 . Performance "Aparafusado à minha loucura", com Simão Collares, na Oficina Cobalto;
 
@@ -57,3 +60,4 @@ email me: henrikferrara@gmail.com
 [FOTOSAGUERRA]: https://sites.google.com/view/henrik-ferrara/works/photography#h.8807bp2yfv47
 [LINKNUS]: https://sites.google.com/view/henrik-ferrara/works/photography?authuser=0#h.hvevk8qo9iba
 [OCOVIL]: https://youtu.be/VkEyyWvcuZY
+[BIRDSANDFLOWERS]:https://www.facebook.com/media/set/?vanity=CulturaEmExpansao&set=a.3182831341945773
