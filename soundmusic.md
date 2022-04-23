@@ -6,16 +6,25 @@ title: "sound and music"
 # Crescente
 [!["Crescente 2"](/assets/music/crescente2.jpg){:width="100%"}](/assets/music/crescente2.jpg)
 "Crescente" is a prototype of a mixed musical instrument. It presents itself as a DMI (Digital Music Instrument) with some qualities imported from the electro-acoustic universe. Its main characteristics are inscribed in its ability to reproduce, through gesture mapping, a polyphonic FM synthesizer processed by a delay effect. In parallel, the instrument offers the possibility of creating electroacoustic feedback loops, as the sound produces resonance in the very materials of the box it structures, due to the use of a contact transducer. This resonance can be picked up by the piezo built into the front face, a signal that is later fed back to the DSP through a block of Karplus Strong synthesis.
+
 [!["Crescente 3"](/assets/music/crescente3.jpg){:width="49%"}](/assets/music/crescente3.jpg) [!["Crescente 4"](/assets/music/crescente4.jpg){:width="49%"}](/assets/music/crescente4.jpg)
-Visit the [bela blog post][belablog] for more details!
-This instrument is an [open-source][crescentegit] project.
+
+Visit the [bela blog post][BELABLOG] for more details!
+This instrument is an [open-source][CRESCENTEGIT] project.
+
+
 Instrument design, build and programming: Henrik Ferrara Body Sculpting and finish: Filipe Tootill
+
+
 [!["gesto1"](/assets/music/crescente_gestos_01.jpg){:width="16%"}](/assets/music/crescente_gestos_01.jpg)[!["gesto2"](/assets/music/crescente_gestos_02.jpg){:width="16%"}](/assets/music/crescente_gestos_02.jpg)[!["gesto3"](/assets/music/crescente_gestos_03.jpg){:width="16%"}](/assets/music/crescente_gestos_03.jpg)[!["gesto4"](/assets/music/crescente_gestos_04.jpg){:width="16%"}](/assets/music/crescente_gestos_04.jpg)[!["gesto5"](/assets/music/crescente_gestos_05.jpg){:width="16%"}](/assets/music/crescente_gestos_05.jpg)[!["gesto6"](/assets/music/crescente_gestos_06.jpg){:width="16%"}](/assets/music/crescente_gestos_06.jpg)
 [!["gesto7"](/assets/music/crescente_gestos_07.jpg){:width="16%"}](/assets/music/crescente_gestos_07.jpg)[!["gesto8"](/assets/music/crescente_gestos_08.jpg){:width="16%"}](/assets/music/crescente_gestos_08.jpg)[!["gesto9"](/assets/music/crescente_gestos_09.jpg){:width="16%"}](/assets/music/crescente_gestos_09.jpg)[!["gesto10"](/assets/music/crescente_gestos_10.jpg){:width="16%"}](/assets/music/crescente_gestos_10.jpg)[!["gesto11"](/assets/music/crescente_gestos_11.jpg){:width="16%"}](/assets/music/crescente_gestos_11.jpg)[!["gesto12"](/assets/music/crescente_gestos_12.jpg){:width="16%"}](/assets/music/crescente_gestos_12.jpg)
 [!["gesto13"](/assets/music/crescente_gestos_13.jpg){:width="16%"}](/assets/music/crescente_gestos_13.jpg)[!["gesto14"](/assets/music/crescente_gestos_14.jpg){:width="16%"}](/assets/music/crescente_gestos_14.jpg)[!["gesto15"](/assets/music/crescente_gestos_15.jpg){:width="16%"}](/assets/music/crescente_gestos_15.jpg)[!["gesto16"](/assets/music/crescente_gestos_16.jpg){:width="16%"}](/assets/music/crescente_gestos_16.jpg)[!["gesto17"](/assets/music/crescente_gestos_17.jpg){:width="16%"}](/assets/music/crescente_gestos_17.jpg)[!["gesto18"](/assets/music/crescente_gestos_18.jpg){:width="16%"}](/assets/music/crescente_gestos_18.jpg)
-[belablog]: https://blog.bela.io/crescente-electroacoustic-instrument/
-[crescentegit]: https://github.com/henrikferrara/Crescente
 
+[BELABLOG]: https://blog.bela.io/crescente-electroacoustic-instrument/
+[CRESCENTEGIT]: https://github.com/henrikferrara/Crescente
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Lick Sick Dick
 The Lick Sick Dick collective was originally formed by Simão Rodrigues, Guilherme Correia and me as an idea for live shows which would blend the languages of music and theatre. As more people joined, such as Miguel Pereira, Mariana Teixeira, Bernardo Ribeiro and João Galvão, we began to explore in which ways we'd explore this blend, how we'd approach music making and storytelling on stage. We found out that, through music and our bodies, there were countless stories to tell and messages to transmit. Iniatially, Guilherme (Penumbra, Guillio) was composing an entire album as a vehicle for a handful of stories. As time went by, we understood that we had more to say and we found that we wanted to work on the spontaneous and exciting danger of improvisation as a group. When we started sketching our first show we had already worked a lot on improvisation practices and more theater approaches applied on music. We then got the help of Ana Pinho, Pedro Galante and Sara Correia to make our project gain a visual life too. Our first show was cancelled the day before it was meant to be due to "lack of technical supervision" from the festival in which it was accepted. We refused to cross arms and showed up anyway, to say what we had to say, without the art apparatus. Roughly six months later, we presented our actual first show, with two full sessions in a row.
@@ -27,9 +36,11 @@ Our collective keeps working, with more people joining and new ideas coming to l
 [!["LickSickDick Collective logo"](/assets/music/lsd_logo.jpg){:width="50%"}](/assets/music/lsd_logo.jpg)
 LickSickDick Collective logo, designed by [Sara Correia][SARASANTOSC]
 
+
+
 [LINKTREELSD]: https://linktr.ee/licksickdick
 [SARASANTOSC]: https://www.instagram.com/sara_santosc/
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ATA OWWO
 
@@ -46,6 +57,9 @@ ATA OWWO é um projeto musical que começou em 2015 a partir de uma enorme vonta
 [!["ATAOWWO DEC PROFILE"](/assets/music/ATA480_owwo.jpg){:width="50%"}][ATAOWWOBC]
 
 [ATAOWWOBC]: https://ata-owwo.bandcamp.com/music
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Geleia Mista
 
