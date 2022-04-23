@@ -53,6 +53,10 @@ ATA OWWO is an ongoing project and new works are currently in the making.
 
 ATA OWWO é um projeto musical que começou em 2015 a partir de uma enorme vontade e necessidade de começar a explorar novas ferramentas de criação sonora. Nessa altura, senti-me muito inspirado pela onda de Witch House e toda a estética que caracterizava o estilo. A abordagem musical a partir da improvisação e experimentação são coisas que surgiram também nesta fase e que acabaram por definir de forma vincada os primeiros trabalhos com este projeto. Com o passar do tempo, evolução pessoal e crescimento do projeto, a cada lançamento, é cada vez mais seguro caracterizar ATA OWWO como uma abordagem musical livre nas paisagens da música eletrónica, contando, frequentemente, com a contribuição de outros músicos em algumas composições.
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1982032365/size=small/bgcol=333333/linkcol=ffffff/track=3150819749/transparent=true/" seamless><a href="https://ata-owwo.bandcamp.com/album/songs-for-green-tea-and-peppermint-pope">Songs for Green Tea and Peppermint Pope by ATA OWWO + GUILLIO</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2220815229/size=small/bgcol=333333/linkcol=ffffff/track=2196108904/transparent=true/" seamless><a href="https://ata-owwo.bandcamp.com/album/no-bug-fucking">NO_BUG_FUCKING by ATA OWWO</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3629610728/size=small/bgcol=333333/linkcol=ffffff/track=2434141151/transparent=true/" seamless><a href="https://ata-owwo.bandcamp.com/album/ww">▲†▲ ●ww● by ATA OWWO</a></iframe>
+
 
 [!["ATAOWWO DEC PROFILE"](/assets/music/ATA480_owwo.jpg){:width="50%"}][ATAOWWOBC]
 
