@@ -5,7 +5,7 @@ title: "Livestream ATA OWWO + GUILLIO - ESMAD TV"
 [<<<<<<](/updates.html)
 # Livestream ATA OWWO + GUILLIO - ESMAD TV
 ATA OWWO + GUILLIO's first livestream show, first aired on the 14th of june, 2019.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tlLY3H3FFDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tlLY3H3FFDs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 Features some of the songs on the album "Songs For Green Tea and Peppermint Pope".
 
 This liveshow was made possible thanks to a great team of audiovisual students directed by Francisca Dores, attending the TCAV programme on Escola Superior de Media Artes e Design (ESMAD). Check the YouTube description for the full credits.
