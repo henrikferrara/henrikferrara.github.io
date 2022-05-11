@@ -5,7 +5,8 @@ title: "Livestream ATA OWWO + GUILLIO - ESMAD TV"
 [<<<<<<](/updates.html)
 # Livestream ATA OWWO + GUILLIO - ESMAD TV
 ATA OWWO + GUILLIO's first livestream show, first aired on the 14th of june, 2019.
-{% include youtubePlayer.html id=tlLY3H3FFDs.youtubeId %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cSQTZoZPJzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Features some of the songs on the album "Songs For Green Tea and Peppermint Pope".
 
