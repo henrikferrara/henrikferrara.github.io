@@ -12,9 +12,4 @@ News are to be announced soon.
 
 Durante o período incerto de pandemia que vivemos no verão de 2020, o coletivo LickSickDick começa a reestruturar ideias e vontades de criar. Existem planos de novos projetos, há muito material para ser trabalhado e apresentado ao público. No entretanto, as pessoas juntam-se com saudades de partilhar a experiência da música improvisada, após semanas intermináveis em isolamento social.
 
-<<<<<<<<<<<<<<<<<<<<<<<< Click image to see the video >>>>>>>>>>>>>>>>>>>>>>>>>>
-[![Life is Snake Henrik](/assets/music/life_is_snake_henrik.jpg){:width="100%"}][VEDJAMLSDSNAKE]
-Photo by [Daniel Teixeira][DANIELSSEN]
-
-[VEDJAMLSDSNAKE]: https://youtu.be/2M6z-iHJr20
-[DANIELSSEN]: https://www.instagram.com/xfrega/
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2M6z-iHJr20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
