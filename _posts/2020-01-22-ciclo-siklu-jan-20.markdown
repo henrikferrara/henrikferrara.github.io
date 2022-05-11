@@ -10,9 +10,9 @@ title: "ciclo'siklu"
 
 "ciclo'siklu" foi uma performance sonora concebida por Francisco Oliveira e Henrik Ferrara. A ideia principal foi de processar ciclos de ação que influenciassem a saída final de áudio. A inspiração para estes "ações" veio de pensamentos sobre a obsolescência e sobre o tempo como um ciclo contínuo. As principais técnicas utilizadas foram a de síntese subtrativa através de no-input mixing, síntese granular, efeitos de áudio adaptativos e síntese FM. Foram também utilizados outros objetos analógicos/acústicos para alimentar o ciclo na cadeia sonora.
 
-[Watch the performance][CICLOVIDEO]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FtGh3A-eWp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 [![Ciclo Esquema](/assets/music/cicloesquema.PNG){:width="100%"}](/assets/music/siklu_francisco_henrik_2019.pdf)
 First schematic, designed by Francisco Oliveira and Henrik Ferrara
 
-[CICLOVIDEO]: https://youtu.be/FtGh3A-eWp4
