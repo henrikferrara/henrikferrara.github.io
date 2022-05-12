@@ -32,6 +32,7 @@ email me: henrikferrara@gmail.com
 . [Tuning People Birds and Flowers - Oficina com Paulo Maria Rodrigues / Companha de Música Teatral][BIRDSANDFLOWERS];
 
 2021
+. [Espetáculo "a.jun.ta.men.to" do Encerramento do Programa Cultura em Expansão 2021, dirigido pelo coletivo ondamarela;][AJUNTA]
 . Performance "Aparafusado à minha loucura", com Simão Collares, na Oficina Cobalto;
 
 2020
@@ -61,3 +62,4 @@ email me: henrikferrara@gmail.com
 [LINKNUS]: https://sites.google.com/view/henrik-ferrara/works/photography?authuser=0#h.hvevk8qo9iba
 [OCOVIL]: https://youtu.be/VkEyyWvcuZY
 [BIRDSANDFLOWERS]:https://www.facebook.com/media/set/?vanity=CulturaEmExpansao&set=a.3182831341945773
+[AJUNTA]: https://www.culturaemexpansao.pt/multimedia-detalhe/a-jun-ta-men-to-ondamarela/
