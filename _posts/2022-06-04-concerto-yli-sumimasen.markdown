@@ -1,4 +1,3 @@
-
 ---
 layout: "post"
 title: "Organização e design do concerto Ýli + SUMIMASEN na Oficina Cobalto"
@@ -15,12 +14,9 @@ No dia 4 de junho de 2022 tiveram lugar dois concertos no espaço exterior da [O
 Foi uma honra e um prazer organizar este concerto (o primeiro concerto "oficial" da [Oficina Cobalto][COBALTO]) e receber as pessoas que vieram assistir. Este esforço surgiu de uma enorme vontade de contribuir para o ecosistema cultural, de forma livre e dedicada à exposição de caminhos musicais da atualidade.
 Fiquei também muito feliz por poder dar forma à comunicação visual deste evento com os meus desenhos que, com a ajuda da [Teresa Zagalo][TERESA], se transformaram em belos cartazes e flyers.
 
-[!["Cartaz1"](/assets/music/cartaz1_yli_sumi.jpg){:width="32%"}](/assets/music/cartaz1_yli_sumi.jpg)
-[!["Cartaz2"](/assets/music/cartaz2_yli_sumi.png){:width="32%"}](/assets/music/cartaz2_yli_sumi.png)
-[!["Cartaz3"](/assets/music/cartaz3_yli_sumi.png){:width="32%"}](/assets/music/cartaz3_yli_sumi.png)
+[!["Cartaz1"](/assets/music/cartaz1_yli_sumi.jpg){:width="32%"}](/assets/music/cartaz1_yli_sumi.jpg) [!["Cartaz2"](/assets/music/cartaz2_yli_sumi.png){:width="32%"}](/assets/music/cartaz2_yli_sumi.png) [!["Cartaz3"](/assets/music/cartaz3_yli_sumi.png){:width="32%"}](/assets/music/cartaz3_yli_sumi.png)
 
-[!["Bilhetes1"](/assets/music/bilhetesyli1.jpg){:width="48%"}](/assets/music/bilhetesyli1.jpg)
-[!["Bilhetes2"](/assets/music/bilhetesyli2.jpg){:width="48%"}](/assets/music/bilhetesyli2.jpg)
+[!["Bilhetes1"](/assets/music/bilhetesyli1.jpg){:width="48%"}](/assets/music/bilhetesyli1.jpg) [!["Bilhetes2"](/assets/music/bilhetesyli2.jpg){:width="48%"}](/assets/music/bilhetesyli2.jpg)
 
 A realização deste evento foi também possível graças à ajuda preciosa do Simão Collares, da Gi Cavaggioni e da Francisca Dores.
 As belíssimas [fotos][FOTOS] que registam este dia estão na página de Instagram da [Oficina Cobalto][COBALTO]
