@@ -12,23 +12,10 @@ email me: henrikferrara@gmail.com
 ![Banner BC 2019](assets/cv/banner_bandcamp_2019.jpg){:width="100%"}
 
 
-# Exposições | Exhibits
-2021
-. [Exposição coletiva "LANDSCAPES - CICLOS DA PAISAGEM I" na Oficina Cobalto](/assets/cv/landscapes2_cobalto_2021.jpg);
-
-2020
-. [Exposição coletiva “Cobalto, o demónio das minas” na Oficina Cobalto](/assets/cv/cobalto2020_expo_col.jpg);
-
-2019  
-. [Instalação “O Covil” na Casa D’Artes do Bonfim][OCOVIL];
-. [Exposição das imagens "Nus para manequim" na exposição coletiva "CRÚ", na Casa D'Artes do Bonfim][LINKNUS];
-
-2018 
-. [Exposição das imagens dos "Bastidores da Guerra para acabar com todas as Guerras" na Fábrica da Alegria][FOTOSAGUERRA];
-. [Exposição do projeto "Sardão" no CPF (Centro Português de Fotografia) no contexto da mostra dos trabalhos finais da licenciatura em TCAV][FOTOSSARDAO];
-
 # Ao vivo | Live Shows
 2022
+. [Apresentação do disco "MÚSICA PARA CASULOS" c/Ig Natz (& the three legged Chick project) Henrik Ferrara e Francisco Babo][CASULOS];
+. [Grupo Operário do Ruído & Ignaz Schick @ Associação de Moradores da Bouça][GORIGNAZ];
 . [Tuning People Birds and Flowers - Oficina com Paulo Maria Rodrigues / Companha de Música Teatral][BIRDSANDFLOWERS];
 
 2021
@@ -50,6 +37,21 @@ email me: henrikferrara@gmail.com
 2018
 . [Live Music & SFX em "A Guerra para acabar com todas as Guerras", na Fábrica da Alegria][AGUERRA];
 
+# Exposições | Exhibits
+2021
+. [Exposição coletiva "LANDSCAPES - CICLOS DA PAISAGEM I" na Oficina Cobalto](/assets/cv/landscapes2_cobalto_2021.jpg);
+
+2020
+. [Exposição coletiva “Cobalto, o demónio das minas” na Oficina Cobalto](/assets/cv/cobalto2020_expo_col.jpg);
+
+2019  
+. [Instalação “O Covil” na Casa D’Artes do Bonfim][OCOVIL];
+. [Exposição das imagens "Nus para manequim" na exposição coletiva "CRÚ", na Casa D'Artes do Bonfim][LINKNUS];
+
+2018 
+. [Exposição das imagens dos "Bastidores da Guerra para acabar com todas as Guerras" na Fábrica da Alegria][FOTOSAGUERRA];
+. [Exposição do projeto "Sardão" no CPF (Centro Português de Fotografia) no contexto da mostra dos trabalhos finais da licenciatura em TCAV][FOTOSSARDAO];
+
 [AGUERRA]: https://youtu.be/j26LGHuq4WI
 [ATAGILESMAD]: https://youtu.be/tlLY3H3FFDs
 [MODOS]: https://www.instagram.com/p/B3-Zv7mJe4n/
@@ -63,3 +65,5 @@ email me: henrikferrara@gmail.com
 [OCOVIL]: https://youtu.be/VkEyyWvcuZY
 [BIRDSANDFLOWERS]:https://www.facebook.com/media/set/?vanity=CulturaEmExpansao&set=a.3182831341945773
 [AJUNTA]: https://www.culturaemexpansao.pt/multimedia-detalhe/a-jun-ta-men-to-ondamarela/
+[GORIGNAZ]: https://www.culturaemexpansao.pt/sessao/grupo-operario-do-ruido-andamp-ignaz-schick/
+[CASULOS]: https://fb.me/e/3dxBC6nRj
