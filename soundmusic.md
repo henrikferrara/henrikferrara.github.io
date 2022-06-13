@@ -44,8 +44,6 @@ LickSickDick Collective logo, designed by [Sara Correia][SARASANTOSC]
 
 # ATA OWWO
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1982032365/size=small/bgcol=ffffff/linkcol=0687f5/track=3150819749/transparent=true/" seamless><a href="https://ata-owwo.bandcamp.com/album/songs-for-green-tea-and-peppermint-pope">Songs for Green Tea and Peppermint Pope by ATA OWWO + GUILLIO</a></iframe>
-
 ATA OWWO is a music project that started back in 2015 with my early exploration needs in music and sound creation. Back then, I was heavily inspired by the Witch House scene and its aesthetics. Improvisation and exploration approaches to music-making were also characteristics that defined the project early on. As time went by, it evolved, with each release, to a subsequently free approach to electronic music. Some of the tracks have had contribuitions by other musicians.
 
 In 2019, ATA OWWO and GUILLIO decided to record an album together, combining their styles and sound textures. With this record, these projects had their first "live" appearance on the internet, playing some songs from the album and demos that were left out of the release. The album was then released on 2020 during the Covid-19 confinement period.
