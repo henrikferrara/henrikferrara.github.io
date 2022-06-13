@@ -10,6 +10,8 @@ Qual é o fim de uma cidade em construção se não uma cidade?
 
 Calvino, I. (2010). As Cidades Invisíveis. p.130
 
+[!["Img1"](/assets/photography/1.jpg){:width="14%"}](/assets/photography/1.jpg)[!["Img2"](/assets/photography/2.jpg){:width="14%"}](/assets/photography/2.jpg)[!["Img3"](/assets/photography/3.jpg){:width="14%"}](/assets/photography/3.jpg)[!["Img4"](/assets/photography/4.jpg){:width="14%"}](/assets/photography/4.jpg)[!["Img5"](/assets/photography/5.jpg){:width="14%"}](/assets/photography/5.jpg)[!["Img6"](/assets/photography/6.jpg){:width="14%"}](/assets/photography/6.jpg)[!["Img7"](/assets/photography/7.jpg){:width="14%"}](/assets/photography/7.jpg)
+[!["Img8"](/assets/photography/8.jpg){:width="14%"}](/assets/photography/8.jpg)[!["Img9"](/assets/photography/9.jpg){:width="14%"}](/assets/photography/9.jpg)[!["Img10"](/assets/photography/10.jpg){:width="14%"}](/assets/photography/10.jpg)[!["Img11"](/assets/photography/11.jpg){:width="14%"}](/assets/photography/11.jpg)[!["Img12"](/assets/photography/12.jpg){:width="14%"}](/assets/photography/12.jpg)[!["Img13"](/assets/photography/13.jpg){:width="14%"}](/assets/photography/13.jpg)[!["Img14"](/assets/photography/14.jpg){:width="14%"}](/assets/photography/14.jpg)
  
 
 Ao caminhar pela margem do rio Douro, oposta à do lado do Porto, observo uma paisagem rica em história e em peculiaridades que me fazem questionar. O Porto apresenta-se, nos seus postais turísticos, como um lugar cheio de detalhes para descobrir no seu património urbano. Estes detalhes amontoam-se em sedimentos, como que em consequência de uma erosão inevitável do tempo. Por cima deles constrói-se novo património, que passa a competir visualmente com um tempo passado e com a própria natureza geográfica da margem em escarpas. As gruas e os andaimes passaram também a competir com esta logística arquitetónica de camadas sobrepostas.
@@ -26,7 +28,6 @@ Ao olhar somente para o corpo deste Porto, sem lhe distinguir as cores e os gran
 
 [2] no capítulo “As cidades e o céu. 3.” em “As Cidades Invisíveis” de Italo Calvino.
 
-[!["Img1"](/assets/photography/1.jpg){:width="14%"}](/assets/photography/1.jpg)[!["Img2"](/assets/photography/2.jpg){:width="14%"}](/assets/photography/2.jpg)[!["Img3"](/assets/photography/3.jpg){:width="14%"}](/assets/photography/3.jpg)[!["Img4"](/assets/photography/4.jpg){:width="14%"}](/assets/photography/4.jpg)[!["Img5"](/assets/photography/5.jpg){:width="14%"}](/assets/photography/5.jpg)[!["Img6"](/assets/photography/6.jpg){:width="14%"}](/assets/photography/6.jpg)[!["Img7"](/assets/photography/7.jpg){:width="14%"}](/assets/photography/7.jpg)
-[!["Img8"](/assets/photography/8.jpg){:width="14%"}](/assets/photography/8.jpg)[!["Img9"](/assets/photography/9.jpg){:width="14%"}](/assets/photography/9.jpg)[!["Img10"](/assets/photography/10.jpg){:width="14%"}](/assets/photography/10.jpg)[!["Img11"](/assets/photography/11.jpg){:width="14%"}](/assets/photography/11.jpg)[!["Img12"](/assets/photography/12.jpg){:width="14%"}](/assets/photography/12.jpg)[!["Img13"](/assets/photography/13.jpg){:width="14%"}](/assets/photography/13.jpg)[!["Img14"](/assets/photography/14.jpg){:width="14%"}](/assets/photography/14.jpg)
+
 
 [Download](/assets/photography/PortoDouroImgs.pdf)
