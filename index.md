@@ -2,20 +2,12 @@
 layout: page
 title: About
 ---
-# PT | Português
-Sou músico, fotógrafo e autor multidisciplinar residente em Vila Nova de Gaia, em Portugal.
+# Biography
 
-Tendo completado recentemente o Mestrado em Multimédia com especialização em Sound Design e Música Interativa (Universidade do Porto), encontro-me atualmente interessado na prototipagem de novos instrumentos e interfaces musicais. Ao mesmo tempo, participo em projetos independentes e em conjunto com o coletivo artístico LickSickDick, tendo frequentemente explorado na área do cinema, do vídeo,  da música, da performance e da fotografia.
-
-Mantive sempre uma forte relação com a música, tendo participado em bandas e outros projetos musicais como a Stop!Estra. Faço parte e contribuí para a formação do coletivo LickSickDick onde trabalho de forma regular com outros artistas. Faço também parte do Grupo Operário do Ruído, um projeto da Sonoscopia apoiado pelo programa Cultura em Expansão. Estou também a trabalhar ativamente no meu projeto de música eletrónica e no desenvolvimento do protótipo do instrumento musical "Crescente".
-
-# ENG | English
-I'm a musician, photographer and multidisciplinary author living in Vila Nova de Gaia, Portugal.
-
-I have recently completed a Masters Programme in Multimedia, specializing on Sound Design and Interactive Music, at Universidade do Porto, in Oporto, Portugal, and I am now interested on the subject of new musical instruments and interfaces.  At the same time, I frequently take part on various independent projects, many of which with LickSickDick's arts collective. These usually focus on the fields of cinema,  video, music, performance and photography.
-
-I have always kept a strong relationship with music and I've participated on some band and other musical projects such as Stop!Estra. I'm a founding member of the LickSickDick collective where I'm regularly alongside other artists. I'm also part of the Grupo Operário do Ruído, a project created by Sonoscopia with the support of Cultura em Expansão. At the same time, I'm actively working on my electronic music projects and on further developing the prototype of "Crescente", an expressive musical instrument.
+Henrik Ferrara (Born 1997) is a musician and multidisciplinary author based in Porto, Portugal. He's recorded original music for film, theater plays and performances whilst also releasing music under the name ATA OWWO, such as the album "Songs for Green Tea and Peppermint Pope" (2020) alongside GUILLIO. He usually improvises and performs with electronic instruments, synthesizers and varied electroacoustic instrumental techniques. He also builds his own instruments, such as Crescente, an electroacoustic feedback instrument, with which research is being developed on the subject of new interfaces for musical expression. In 2017 he became a founding member of the LickSickDick collective, for which he has contributed in several different roles of creation, on works such as "PARA ACABER DE VEZ COM O JUÍZO DE DEUS" (2020) and "Plasti Cidade" (2021). Besides this arts collective, he's also been part of other musical groups and projects, such as Stop!Estra and Grupo Operário do Ruído. He frequently works alongside Francisca Dores, Guilherme Correia and Simão Collares. He's also played with other artists and musicians such as Filipe Lopes, Miguel Serrão (MSP), Victor Negri (arubu avua), Eduarda Sá Andresen (Ig Natz & the three legged chick project), Rodrigo Constanzo, Francisco Oliveira, among others.
+He holds an M.A from Faculdade de Engenharia da Universidade do Porto (FEUP) on Multimedia (MM) - Interactive Music and Sound Design, and a Bachelor's degree from Escola Superior de Media Artes e Design (ESMAD) in Audiovisual Communication Technologies (TCAV).
 
 
-[!["Rito, A Transformação das Cinzas", january 2019,  Francisca Dores](/assets/about/FD_2019_JAN_TransCinzas_26.jpg){:width="50%"}](/assets/about/FD_2019_JAN_TransCinzas_26.jpg)
-"Rito, A Transformação das Cinzas", january 2019,  Francisca Dores
+
+[![MUSICA_PARA_CASULOS_03_JUN_22](/assets/about/03_JUN22-MusicaCasulos.jpg){:width="50%"}](/assets/about/03_JUN22-MusicaCasulos.jpg)
+Apresentação do disco "Música para Casulos", june 2022, Francisca Dores
