@@ -14,7 +14,7 @@ email me: henrikferrara@gmail.com
 
 # Ao vivo | Live Shows
 2022
-. [Apresentação "Crescente, Gesto e Expressividade para novos instrumentos e interfaces", no Auditório Luís Soares, ESMAD @ IRI 2022](assets/cv/IRI_2022.png);
+. [Apresentação "Crescente, Gesto e Expressividade para novos instrumentos e interfaces", no Auditório Luís Soares, ESMAD @ IRI 2022](assets/cv/IRI_2022.PNG);
 . [Ativação da instalação "Memórias do Tafetá", na exposição RITOS E APOTEOSES na Oficina Cobalto, com Simão Rodrigues e Ricardo M.Vieira][MemoriasTafeta2];
 . [Ativação da instalação “Memórias do Tafetá”, na exposição 232º Celsius, com Simão Rodrigues, Guilherme Correia e Francisca Dores][MemoriasTafeta];
 . [Apresentação do disco "MÚSICA PARA CASULOS" c/Ig Natz (& the three legged Chick project) Henrik Ferrara e Francisco Babo][CASULOS];
