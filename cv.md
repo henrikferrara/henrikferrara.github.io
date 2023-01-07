@@ -14,6 +14,9 @@ email me: henrikferrara@gmail.com
 
 # Ao vivo | Live Shows
 2022
+. [Apresentação "Crescente, Gesto e Expressividade para novos instrumentos e interfaces", no Auditório Luís Soares, ESMAD @ IRI 2022](assets/cv/IRI_2022.png);
+. [Ativação da instalação "Memórias do Tafetá", na exposição RITOS E APOTEOSES na Oficina Cobalto, com Simão Rodrigues e Ricardo M.Vieira][MemoriasTafeta2];
+. [Ativação da instalação “Memórias do Tafetá”, na exposição 232º Celsius, com Simão Rodrigues, Guilherme Correia e Francisca Dores][MemoriasTafeta];
 . [Apresentação do disco "MÚSICA PARA CASULOS" c/Ig Natz (& the three legged Chick project) Henrik Ferrara e Francisco Babo][CASULOS];
 . [Grupo Operário do Ruído & Ignaz Schick @ Associação de Moradores da Bouça][GORIGNAZ];
 . [Tuning People Birds and Flowers - Oficina com Paulo Maria Rodrigues / Companha de Música Teatral][BIRDSANDFLOWERS];
@@ -67,3 +70,5 @@ email me: henrikferrara@gmail.com
 [AJUNTA]: https://www.culturaemexpansao.pt/multimedia-detalhe/a-jun-ta-men-to-ondamarela/
 [GORIGNAZ]: https://www.culturaemexpansao.pt/sessao/grupo-operario-do-ruido-andamp-ignaz-schick/
 [CASULOS]: https://fb.me/e/3dxBC6nRj
+[MemoriasTafeta]: https://www.instagram.com/reel/Ck_Rno0Jj0C/
+[MemoriasTafeta2]: https://www.instagram.com/p/CmUdbErs8eT/
