@@ -7,7 +7,7 @@ title: "cv"
 
 email me: henrikferrara@gmail.com
 
-[PDF DOWNLOAD](assets/cv/cv_henrique_ferreira_may2022.pdf)
+[PDF DOWNLOAD](assets/cv/CV_Henrik_01_2023.pdf)
 
 ![Banner BC 2019](assets/cv/banner_bandcamp_2019.jpg){:width="100%"}
 
