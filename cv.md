@@ -13,6 +13,8 @@ email me: henrikferrara@gmail.com
 
 
 # Ao vivo | Live Shows
+2023
+. ["Forças Atuantes, Corpos em Repouso" @ AL859, JAN 2023][FACR27];
 2022
 . [Apresentação "Crescente, Gesto e Expressividade para novos instrumentos e interfaces", no Auditório Luís Soares, ESMAD @ IRI 2022](assets/cv/IRI_2022.PNG);
 . [Ativação da instalação "Memórias do Tafetá", na exposição RITOS E APOTEOSES na Oficina Cobalto, com Simão Rodrigues e Ricardo M.Vieira][MemoriasTafeta2];
@@ -72,3 +74,4 @@ email me: henrikferrara@gmail.com
 [CASULOS]: https://fb.me/e/3dxBC6nRj
 [MemoriasTafeta]: https://www.instagram.com/reel/Ck_Rno0Jj0C/
 [MemoriasTafeta2]: https://www.instagram.com/p/CmUdbErs8eT/
+[FACR27]: https://www.instagram.com/p/CoA8ykUMxYs/
