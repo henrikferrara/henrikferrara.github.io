@@ -26,6 +26,14 @@ Instrument design, build and programming: Henrik Ferrara Body Sculpting and fini
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Forças Atuantes, Corpos em Repouso
+
+"Forças Atuantes, Corpos em Repouso" is an audiovisual performance where Francisca Dores and Henrik Ferrara play together with image and sound, a performance for two, in which the production of sound and the production of the visual score in real time assume an interdependent relationship and create loops of stimuli, an audiovisual feedback. Thus, from the black screen (the dark, the silence) the journey begins. The first command comes from the television screen and the gesture that manipulates the camera which, in the dark, finds information that is translated on the screen into night vision images. These first images provide the stimulus for the production of sound and, from then on, all the interactions and shapes inherent to the noise-producing objects themselves become material that can be the focus of the camera and, consequently, the next beat in the score that is built in real time.
+
+[!["FACR01"](/assets/music/FACR_22_01.JPG){:width="49%"}](/assets/music/FACR_22_01.JPG) [!["FACR02"](/assets/music/FACR_22_02.JPG){:width="49%"}](/assets/music/FACR_22_02.JPG) [!["FACR03"](/assets/music/FACR_22_03.JPG){:width="49%"}](/assets/music/FACR_22_03.JPG) [!["FACR04"](/assets/music/FACR_22_04.JPG){:width="49%"}](/assets/music/FACR_22_04.JPG)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # ATA OWWO
 
 ATA OWWO is a music project that started back in 2015 with my early exploration needs in music and sound creation. Back then, I was heavily inspired by the Witch House scene and its aesthetics. Improvisation and exploration approaches to music-making were also characteristics that defined the project early on. As time went by, it evolved, with each release, to a subsequently free approach to electronic music. Some of the tracks have had contribuitions by other musicians.
