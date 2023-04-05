@@ -14,6 +14,8 @@ email me: henrikferrara@gmail.com
 
 # Ao vivo | Live Shows
 2023
+. ["Trabalhar rápido é trabalhar pior" with LickSickDick @ New Hand Lab, Covilhã][NHLshow]
+. [Bug Snapper / Henrik Ferrara @ Oficina Cobalto][BUGHENRIK];
 . ["Forças Atuantes, Corpos em Repouso" @ AL859, JAN 2023][FACR27];
 2022
 . [Apresentação "Crescente, Gesto e Expressividade para novos instrumentos e interfaces", no Auditório Luís Soares, ESMAD @ IRI 2022](assets/cv/IRI_2022.PNG);
@@ -75,3 +77,5 @@ email me: henrikferrara@gmail.com
 [MemoriasTafeta]: https://www.instagram.com/reel/Ck_Rno0Jj0C/
 [MemoriasTafeta2]: https://www.instagram.com/p/CmUdbErs8eT/
 [FACR27]: https://www.instagram.com/p/CoA8ykUMxYs/
+[BUGHENRIK]: https://www.instagram.com/p/CoX8Y4Qsmyc/
+[NHLshow]: https://www.instagram.com/p/CqntLqTsbU3/
