@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Organização/Design do concerto Ýli/SUMIMASEN @ Oficina Cobalto"
+title: "Organização e Design do concerto Ýli + SUMIMASEN"
 ---
 [<<<<<<](/updates.html)
 # Organização e design do concerto Ýli + SUMIMASEN na Oficina Cobalto
