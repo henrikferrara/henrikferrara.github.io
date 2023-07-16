@@ -2,6 +2,21 @@
 layout: "page"
 title: "sound and music"
 ---
+# ATAVISTICO
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2060943816/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://licksickdick.bandcamp.com/album/atavistico">ATAVISTICO by henrik ferrara</a></iframe>
+
+Released June 10th, 2023, "ATAVISTICO" is Henrik Ferrara's debut album, "A slow passage in the midst of storms. We are taken by the sounds and the boat, then by gravity, and finally by an imperative call from the Cosmos. The story of the wreckage of a constructed body that, at the moment of confrontation with the abyss, is unknown. The sounds of violence, of the bowels of mountains, of city pipes, of other people's memories, of animal fossils, of our embryonic body, of the dark and the mother. Atavistic suggests a listening narrative, through an exercise in synthesis delivered to a set of colossal forces that trap human smallness in the present, the unique place of stage".
+
+K7 Handmade Edition (50 copies)
+
+[!["K7ATAVISTICO 1"](/assets/music/ATAk7_01.jpg){:width="32%"}](/assets/music/ATAk7_01.jpg) [!["K7ATAVISTICO 2"](/assets/music/ATAk7_02.jpg){:width="32%"}](/assets/music/ATAk7_02.jpg) [!["K7ATAVISTICO 3"](/assets/music/ATAk7_03.jpg){:width="32%"}](/assets/music/ATAk7_03.jpg)
+[!["K7ATAVISTICO 4"](/assets/music/ATAk7_04.jpg){:width="32%"}](/assets/music/ATAk7_04.jpg) [!["K7ATAVISTICO 5"](/assets/music/ATAk7_05.jpg){:width="32%"}](/assets/music/ATAk7_05.jpg) [!["K7ATAVISTICO 6"](/assets/music/ATAk7_06.jpg){:width="32%"}](/assets/music/ATAk7_06.jpg)
+
+For a K7 physical copy, visit [Matéria Prima][MPK7] or contact [Edições Fusareda][FUSAREDA]!
+
+[MPK7]: https://www.materiaprima.pt/detail.php?id=71854
+[FUSAREDA]: https://www.instagram.com/fusareda/
 
 # Crescente
 [!["Crescente 2"](/assets/music/crescente2.jpg){:width="100%"}](/assets/music/crescente2.jpg)
