@@ -4,6 +4,7 @@ title: "sound and music"
 ---
 # ATAVISTICO
 
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2060943816/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://licksickdick.bandcamp.com/album/atavistico">ATAVISTICO by henrik ferrara</a></iframe>
 
 Released June 10th, 2023, "ATAVISTICO" is Henrik Ferrara's debut album, "A slow passage in the midst of storms. We are taken by the sounds and the boat, then by gravity, and finally by an imperative call from the Cosmos. The story of the wreckage of a constructed body that, at the moment of confrontation with the abyss, is unknown. The sounds of violence, of the bowels of mountains, of city pipes, of other people's memories, of animal fossils, of our embryonic body, of the dark and the mother. Atavistic suggests a listening narrative, through an exercise in synthesis delivered to a set of colossal forces that trap human smallness in the present, the unique place of stage".
@@ -64,7 +65,7 @@ ATA OWWO é um projeto musical que começou em 2015 a partir de uma enorme vonta
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1982032365/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://ata-owwo.bandcamp.com/album/songs-for-green-tea-and-peppermint-pope">Songs for Green Tea and Peppermint Pope by ATA OWWO + GUILLIO</a></iframe>
 
-<iframe style="border: 0; width: 400px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2220815229/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://ata-owwo.bandcamp.com/album/no-bug-fucking">NO_BUG_FUCKING by ATA OWWO</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2220815229/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://ata-owwo.bandcamp.com/album/no-bug-fucking">NO_BUG_FUCKING by ATA OWWO</a></iframe>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
