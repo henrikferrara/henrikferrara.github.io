@@ -14,6 +14,14 @@ email me: henrikferrara@gmail.com
 
 # Ao vivo | Live Shows
 2023
+. [Chili Summer 2023 / Henrik Ferrara Live set @ AL859, JUL 2023][ATAWORMCHILI]
+. [Microvolumes 4.35 / Maria Moles / Henrik Ferrara / Sabine Ercklentz, Claudia Schmitz & Marta Zapparoli @Sonoscopia, 18 JUN 2023][ATASONOS]
+. [Henrik Ferrara, "ATAVISTICO" album release show @ Aleste, 10 JUN 2023][ATAVISTICOALESTE]
+. [Grupo Operário do Ruído & Ioana Vreme Moser @ Associação Nun'Alvares de Campanhã, MAI 2023][GORIOANA]
+. [Coro Normal "For Tomorrow's Delirious waiting room senseless sunflowers lollipop mushrooms" @ Café-concerto Francisco Beja, MAI 2023][CORONORMAL1]
+. [Mike Wazovski @ AL859, APRIL 2023, Enfermo Distro X Leviatã NOISE GATHERING][MIKE]
+. ["Forças Atuantes, Corpos em Repouso" APUROS 2 @ AL859, APRIL 2023][FACR22]
+. [LEFTOVER KLANGWERK "KETIKA, KELANA, KELAK" Collective Sound Performance oriented by Ariel William Orah and J"Moong" @ Aleste, MAR 2023][KLANGWERK];
 . ["Trabalhar rápido é trabalhar pior" with LickSickDick @ New Hand Lab, Covilhã][NHLshow]
 . [Bug Snapper / Henrik Ferrara @ Oficina Cobalto][BUGHENRIK];
 . ["Forças Atuantes, Corpos em Repouso" @ AL859, JAN 2023][FACR27];
@@ -79,3 +87,11 @@ email me: henrikferrara@gmail.com
 [FACR27]: https://www.instagram.com/p/CoA8ykUMxYs/
 [BUGHENRIK]: https://www.instagram.com/p/CoX8Y4Qsmyc/
 [NHLshow]: https://www.instagram.com/p/CqntLqTsbU3/
+[KLANGWERK]:https://www.soydivision.berlin/leftover-klangwerk
+[MIKE]:https://enfermodistro.blogspot.com/2023/04/noise-gathering-15th-april-al859.html
+[GORIOANA]:https://www.culturaemexpansao.pt/en/sessao/grupo-operario-do-ruido-andamp-ioana-vreme-moser/
+[ATAVISTICOALESTE]:https://www.facebook.com/photo/?fbid=578500207697139&set=a.419717393575422
+[ATASONOS]:https://www.goethe.de/ins/pt/pt/ver.cfm?event_id=24834943
+[ATAWORMCHILI]:https://www.instagram.com/p/Cuze0RHIgFR/?img_index=7
+[CORONORMAL1]:https://www.instagram.com/p/CrydoDhs01n/
+[FACR22]:https://www.instagram.com/p/CseCz1LNRGF/
