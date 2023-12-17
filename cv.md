@@ -14,6 +14,7 @@ email me: henrikferrara@gmail.com
 
 # Ao vivo | Live Shows
 2023
+. ["Fhosfhorus" live performance @ montra - mostra de arte 2023, NOV 2023][MONTRA]
 . [Chili Summer 2023 / Henrik Ferrara Live set @ AL859, JUL 2023][ATAWORMCHILI]
 . [Microvolumes 4.35 / Maria Moles / Henrik Ferrara / Sabine Ercklentz, Claudia Schmitz & Marta Zapparoli @Sonoscopia, 18 JUN 2023][ATASONOS]
 . [Henrik Ferrara, "ATAVISTICO" album release show @ Aleste, 10 JUN 2023][ATAVISTICOALESTE]
@@ -91,6 +92,7 @@ email me: henrikferrara@gmail.com
 [MIKE]:https://enfermodistro.blogspot.com/2023/04/noise-gathering-15th-april-al859.html
 [GORIOANA]:https://www.culturaemexpansao.pt/en/sessao/grupo-operario-do-ruido-andamp-ioana-vreme-moser/
 [ATAVISTICOALESTE]:https://www.facebook.com/photo/?fbid=578500207697139&set=a.419717393575422
+[MONTRA]:https://youtu.be/_hM1bXx5QyA?si=iO_RB02cfTPqIXG1
 [ATASONOS]:https://www.goethe.de/ins/pt/pt/ver.cfm?event_id=24834943
 [ATAWORMCHILI]:https://www.instagram.com/p/Cuze0RHIgFR/?img_index=7
 [CORONORMAL1]:https://www.instagram.com/p/CrydoDhs01n/
