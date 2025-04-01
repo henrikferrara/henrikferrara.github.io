@@ -44,7 +44,10 @@ Instrument design, build and programming: Henrik Ferrara Body Sculpting and fini
 
 # Live set @ AL859, Worm Winter and Chili Summer Festival
 
+
+ ݁₊ ⊹ . ݁˖ . ݁
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2054966650/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://wormwinterchilisummerfestival.bandcamp.com/album/henrik-ferrara">Henrik Ferrara by Henrik Ferrara</a></iframe>
+. ݁₊ ⊹ . ݁˖ . ݁
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
