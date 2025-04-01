@@ -12,5 +12,5 @@ He has a degree in Audiovisual Communication Technologies (ESMAD) and a master's
 
 
 
-[![FEV 23 HENRIK](/assets/about/07_FEV2023-HenrikFerrara.jpg){:width="100%"}](/assets/about/07_FEV2023-HenrikFerrara.jpg)
-Henrik Ferrara playing @ Oficina Cobalto, feb 2023, Francisca Dores
+[![PD Rehearsal 24](/assets/about/PD_Ensaio_Zhang_01 2.jpeg){:width="100%"}](/assets/about/PD_Ensaio_Zhang_01 2.jpeg)
+Gil Mac and Henrik Ferrara rehearsing for Pleasure Drone @ Circular Festival, october 2024, Zhang Qinzhe
