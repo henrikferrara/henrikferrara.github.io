@@ -13,7 +13,14 @@ email me: henrikgf.ferreira@gmail.com
 
 
 # Ao vivo | Live Shows
+2025
+. [Coletivo Obsoleto + fred + joão @ AMPARO 99, MAR 2025, fritaria de primavera][FRITARIAFRED]
+. [Welcome to Pleasure Drone @ CRL Central Elétrica, JAN 2025, watts - Ciclo Sonoro][WELCOMEPD]
+. [MASTER&SLAVE @ AMPARO 99, JAN 2025][MSAMPARO]
 2024
+. [licksickdick @ Café Concerto Francisco Beja, DEZ 2024][LSDCAFE]
+. [licksickdick @ iodo, NOV 2024, Algo Alto][ALGOALTO]
+. [The Journey to Pleasure Drone @ Auditório Municipal de Vila do Conde, Circular Festival, OUT 2024][JOURNEYPD]
 . [fhosfhorus + guirlflux @ i o d o, JUN 2024, Enfermo Distro X Leviatã][LEVIATAEND]
 . [GELEIA MISTA @ ARM5A, JUN 2024, Enfermo Distro X Leviatã][LEVIATAEND]
 2023
@@ -102,3 +109,9 @@ email me: henrikgf.ferreira@gmail.com
 [CORONORMAL1]:https://www.instagram.com/p/CrydoDhs01n/
 [FACR22]:https://www.instagram.com/p/CseCz1LNRGF/
 [LEVIATAEND]:https://www.instagram.com/p/C8H5Bm-saT1/
+[LSDCAFE]:https://www.instagram.com/p/DDHhHMRtc-d/?igsh=Y2hxc3hzb3l4aDZy
+[ALGOALTO]:https://iodo.site/event/algo-alto/
+[JOURNEYPD]:https://www.circularfestival.com/pt/evento/the-journey-to-pleasure-drone-auditorio-municipal-de-vila-do-conde-2024/
+[MSAMPARO]:https://www.instagram.com/reel/DE0SslDt_mn/?igsh=OXRuM2FwNGh0a2w2
+[WELCOMEPD]:https://www.instagram.com/p/DFgCysGtfIP/?igsh=ejAxcjdqeXBkZ3Vk
+[FRITARIAFRED]:https://www.instagram.com/p/DFgCysGtfIP/?igsh=ejAxcjdqeXBkZ3Vk
