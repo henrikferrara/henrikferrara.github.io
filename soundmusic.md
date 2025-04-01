@@ -42,6 +42,13 @@ Instrument design, build and programming: Henrik Ferrara Body Sculpting and fini
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Live set @ AL859, Worm Winter and Chili Summer Festival
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2054966650/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://wormwinterchilisummerfestival.bandcamp.com/album/henrik-ferrara">Henrik Ferrara by Henrik Ferrara</a></iframe>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Forças Atuantes, Corpos em Repouso
 
 "Forças Atuantes, Corpos em Repouso" is an audiovisual performance where Francisca Dores and Henrik Ferrara play together with image and sound, a performance for two, in which the production of sound and the production of the visual score in real time assume an interdependent relationship and create loops of stimuli, an audiovisual feedback. Thus, from the black screen (the dark, the silence) the journey begins. The first command comes from the television screen and the gesture that manipulates the camera which, in the dark, finds information that is translated on the screen into night vision images. These first images provide the stimulus for the production of sound and, from then on, all the interactions and shapes inherent to the noise-producing objects themselves become material that can be the focus of the camera and, consequently, the next beat in the score that is built in real time.
