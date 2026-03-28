@@ -5,7 +5,7 @@ email: henrikferrara@gmail.com
 header_pages: 
 - index.md
 - cv.md
-- updates.md
+# - updates.md
 - soundmusic.md
 - stable.md
 
