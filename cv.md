@@ -110,7 +110,7 @@ email me: henrikgf.ferreira@gmail.com
 [FACR27]: https://www.instagram.com/p/CoA8ykUMxYs/
 [BUGHENRIK]: https://www.instagram.com/p/CoX8Y4Qsmyc/
 [NHLshow]: https://www.instagram.com/p/CqntLqTsbU3/
-[KLANGWERK]:https://www.soydivision.berlin/leftover-klangwerk
+[KLANGWERK]:https://www.arielorah.com/ketika-kelana-kelak.html
 [MIKE]:https://enfermodistro.blogspot.com/2023/04/noise-gathering-15th-april-al859.html
 [GORIOANA]:https://www.culturaemexpansao.pt/en/sessao/grupo-operario-do-ruido-andamp-ioana-vreme-moser/
 [ATAVISTICOALESTE]:https://www.facebook.com/photo/?fbid=578500207697139&set=a.419717393575422
