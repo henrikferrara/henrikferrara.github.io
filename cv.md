@@ -13,10 +13,17 @@ email me: henrikgf.ferreira@gmail.com
 
 
 # Ao vivo | Live Shows
+2026 
+. ["Linhas de Bordadura" Francisca Dores & Henrik Ferrara, Cinema Expandido | 34º Curtas Vila do Conde International Film Festival @ Solar Galeria de Arte Cinemática, JUL 2026][CESOLAR]
+. [Coletivo Obsoleto, "Trabalhar Rápido é Trabalhar Pior" @ Teatro Municipal da Covilhã, JUL 2026][TRETPTMC]
+. [The Journey to Pleasure Drone @ Oficinas do Convento, JUN 2026][PLEASUREMONTEMOR]
+. [Coletivo Obsoleto, "fábric" @ Escola Normal, ABR 2026][TOUPEIRA]
+. [Coletivo Obsoleto, Concerto de apresentação do álbum "fábric" @ i o d o, ABR 2026][FOTOSFABRIC]
 2025
 . [Linhas de Bordadura, Francisca Dores, Performance musical, Solar - Galeria de Arte Cinemática, DEZ 2025][LINHASB]
 . [Henrik Ferrara, Concerto @ Pinguim Café, JUN 2025][PINGU]
 . [MASTER&SLAVE @ Passos Manuel - Auditório, MAI 2025, Arte Pela Palestina][ARTEPALEST]
+. Henrik Ferrara @ Mala Voadora, MAI 2025, Arte Pela Palestina
 . [Coletivo Obsoleto + fred + joão @ AMPARO 99, MAR 2025, fritaria de primavera][FRITARIAFRED]
 . [Welcome to Pleasure Drone @ CRL Central Elétrica, JAN 2025, watts - Ciclo Sonoro][WELCOMEPD]
 . [MASTER&SLAVE @ AMPARO 99, JAN 2025][MSAMPARO]
@@ -117,7 +124,12 @@ email me: henrikgf.ferreira@gmail.com
 [JOURNEYPD]:https://www.circularfestival.com/pt/evento/the-journey-to-pleasure-drone-auditorio-municipal-de-vila-do-conde-2024/
 [MSAMPARO]:https://www.instagram.com/reel/DE0SslDt_mn/?igsh=OXRuM2FwNGh0a2w2
 [WELCOMEPD]:https://www.instagram.com/p/DFgCysGtfIP/?igsh=ejAxcjdqeXBkZ3Vk
+[FOTOSFABRIC]:https://iodo.site/event/coletivo-obsoleto-fabric/
 [FRITARIAFRED]:https://www.instagram.com/p/DFgCysGtfIP/?igsh=ejAxcjdqeXBkZ3Vk
 [ARTEPALEST]:https://www.instagram.com/p/DJHOHVqKW5M/?__d=undefined
 [PINGU]:https://agendaculturalporto.org/eventos/agenda-pinguim-cafe-junho-2025/
 [LINHASB]:https://solar.curtas.pt/atividade/francisca-dores-inauguracao/
+[PLEASUREMONTEMOR]:https://oficinasdoconvento.com/pleasure-drone/
+[TOUPEIRA]:https://www.instagram.com/p/DXpDUvBDdXo/
+[TRETPTMC]:https://noticiasdacovilha.pt/coletivo-obsoleto-no-tmc/
+[CESOLAR]:https://www.festival.curtas.pt/en/detail-news/2026-cinema-expandido/
