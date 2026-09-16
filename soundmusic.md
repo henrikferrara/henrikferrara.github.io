@@ -15,7 +15,7 @@ Released April 23rd, 2026, "fábric" is Coletivo Obsoleto's debut album, created
 Pleasure Drone is a live audiovisual performance combining electronic music, choreography, life-size video projection, light and interactive digital imagery.
 The music is composed and performed live by Henrik Ferrara and Gil Mac. The visual component is developed by Zhang Qinzhe, combining video, projection, light and digitally manipulated bodies.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4w10HLbQSJA?si=W2TpAgGYMqdB3wQl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[!["PleasureDronePic1"](/assets/music/PD_cap.PNG){:width="100%"}](https://www.youtube.com/watch?v=4w10HLbQSJA)
 
 # ATAVISTICO
 
