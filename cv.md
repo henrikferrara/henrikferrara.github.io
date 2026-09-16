@@ -3,11 +3,11 @@ layout: "page"
 title: "cv"
 ---
 
-# Download Curriculum Vitae below
+# Curriculum Vitae below
 
 email me: henrikgf.ferreira@gmail.com
 
-[PDF DOWNLOAD](assets/cv/CV_Henrik_07_2024.pdf)
+[CV Ciência Vitae][CVItae]
 
 ![Banner BC 2019](assets/cv/banner_bandcamp_2019.jpg){:width="100%"}
 
@@ -89,6 +89,7 @@ email me: henrikgf.ferreira@gmail.com
 . [Exposição das imagens dos "Bastidores da Guerra para acabar com todas as Guerras" na Fábrica da Alegria][FOTOSAGUERRA]
 . [Exposição do projeto "Sardão" no CPF (Centro Português de Fotografia) no contexto da mostra dos trabalhos finais da licenciatura em TCAV][FOTOSSARDAO]
 
+[CVitae]:https://www.cienciavitae.pt//pt/6A16-760A-1FB6
 [AGUERRA]: https://youtu.be/j26LGHuq4WI
 [ATAGILESMAD]: https://youtu.be/tlLY3H3FFDs
 [MODOS]: https://www.instagram.com/p/B3-Zv7mJe4n/
