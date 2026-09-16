@@ -2,6 +2,21 @@
 layout: "page"
 title: "sound and music"
 ---
+# fábric
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1298465723/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://obsoletocoletivo.bandcamp.com/album/f-bric">fábric by Coletivo Obsoleto</a></iframe>
+
+Released April 23rd, 2026, "fábric" is Coletivo Obsoleto's debut album, created from an artistic residence that took place in a textile factory, in 2022. This album represents the musical output recorded in the context of that residency, which was included in the show "Trabalhar Rápido é Trabalhar Pior". Since release, the album has been presented live at i o d o, at Covilhã's TMC, such as other venues. It features 6 tracks, design by Patrícia de Sousa and was released in an independent limited edition in CD, which can be acquired directly through the bandcamp page.
+
+# Pleasure Drone
+
+### Electronic Music · Live Performance · Synchronized Video & Interactive Visuals
+
+Pleasure Drone is a live audiovisual performance combining electronic music, choreography, life-size video projection, light and interactive digital imagery.
+The music is composed and performed live by Henrik Ferrara and Gil Mac. The visual component is developed by Zhang Qinzhe, combining video, projection, light and digitally manipulated bodies.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4w10HLbQSJA?si=W2TpAgGYMqdB3wQl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # ATAVISTICO
 
 
